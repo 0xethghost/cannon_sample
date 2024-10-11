@@ -3,7 +3,7 @@ version = "0.1"
 description = "Sample Hardhat Project"
 
 [var.main]
-unlock_time = "1700000000"
+unlock_time = "1728613325"
 
 [deploy.lock]
 artifact = "Lock"
